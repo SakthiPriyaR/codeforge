@@ -45,6 +45,3 @@ Now that we are done with all the set-up & installation steps we can start the a
 
 ---
 
-## 🙏 Attribution
-
-CodeForge is based on [codebasics/coder-buddy](https://github.com/codebasics/coder-buddy) by Codebasics Inc., adapted and published with the original author's permission.
