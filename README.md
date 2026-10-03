@@ -47,4 +47,4 @@ Now that we are done with all the set-up & installation steps we can start the a
 
 ## 🙏 Attribution
 
-CodeForge is derived from [codebasics/coder-buddy](https://github.com/codebasics/coder-buddy). The original project is © Codebasics Inc. and had no license at the time of copying, so please check with the original authors before redistributing.
+CodeForge is derived from [codebasics/coder-buddy](https://github.com/codebasics/coder-buddy). The original project is © Codebasics Inc.
