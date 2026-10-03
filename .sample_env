@@ -1,0 +1,4 @@
+GROQ_API_KEY=<YOUR_API_KEY_HERE>
+# Optional
+# CODEFORGE_MODEL=openai/gpt-oss-120b
+# CODEFORGE_DEBUG=1
