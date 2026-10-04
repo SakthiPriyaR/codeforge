@@ -110,10 +110,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 4. Commit with a clear message and push to your fork.
 5. Open a pull request against the `main` branch.
 
-Please keep the code style consistent (ES2021, 2‑space indentation) and avoid adding external dependencies.
 
----
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
